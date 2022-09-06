@@ -4,11 +4,10 @@ Ola! Eu sou o Doodley Gracia
 
 - 🔥 noob 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
-
 <div align="center">
   <a href="https://github.com/DoodleyGracia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoodleyGracia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleyGracia&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoodleyGracia&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoodleyGracia&layout=compact&langs_count=7&theme=red"/>
 </div>
 
   ## 🛠 &nbsp;Tech Stack
