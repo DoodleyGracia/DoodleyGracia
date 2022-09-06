@@ -43,5 +43,4 @@ Ola! Eu sou o Doodley Gracia
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
- 
+
