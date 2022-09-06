@@ -30,7 +30,7 @@ Ola! Eu sou o Doodley Gracia
 <a href="https://" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Doodley-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://doodleygracia/" target="_blank">
+<a href="https://www.linkedin.com/in/doodleygracia/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Doodley-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://" target="_blank">
