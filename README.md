@@ -2,6 +2,7 @@ Ola! Eu sou o Doodley Gracia
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I' m Doodley Gracia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DoodleyGracia&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 noob 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
 
 <div align="center">
